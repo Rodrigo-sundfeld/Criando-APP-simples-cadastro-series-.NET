@@ -1,0 +1,13 @@
+C:\Users\Pitiquinho\OneDrive\Área de Trabalho\CURSOS RODRIGO\Bootcamp Decola Tech\app-simples-cadastro-series-.net\Rodrigo.Series\bin\Debug\netcoreapp3.1\Rodrigo.Series.exe
+C:\Users\Pitiquinho\OneDrive\Área de Trabalho\CURSOS RODRIGO\Bootcamp Decola Tech\app-simples-cadastro-series-.net\Rodrigo.Series\bin\Debug\netcoreapp3.1\Rodrigo.Series.deps.json
+C:\Users\Pitiquinho\OneDrive\Área de Trabalho\CURSOS RODRIGO\Bootcamp Decola Tech\app-simples-cadastro-series-.net\Rodrigo.Series\bin\Debug\netcoreapp3.1\Rodrigo.Series.runtimeconfig.json
+C:\Users\Pitiquinho\OneDrive\Área de Trabalho\CURSOS RODRIGO\Bootcamp Decola Tech\app-simples-cadastro-series-.net\Rodrigo.Series\bin\Debug\netcoreapp3.1\Rodrigo.Series.runtimeconfig.dev.json
+C:\Users\Pitiquinho\OneDrive\Área de Trabalho\CURSOS RODRIGO\Bootcamp Decola Tech\app-simples-cadastro-series-.net\Rodrigo.Series\bin\Debug\netcoreapp3.1\Rodrigo.Series.dll
+C:\Users\Pitiquinho\OneDrive\Área de Trabalho\CURSOS RODRIGO\Bootcamp Decola Tech\app-simples-cadastro-series-.net\Rodrigo.Series\bin\Debug\netcoreapp3.1\Rodrigo.Series.pdb
+C:\Users\Pitiquinho\OneDrive\Área de Trabalho\CURSOS RODRIGO\Bootcamp Decola Tech\app-simples-cadastro-series-.net\Rodrigo.Series\obj\Debug\netcoreapp3.1\Rodrigo.Series.csprojAssemblyReference.cache
+C:\Users\Pitiquinho\OneDrive\Área de Trabalho\CURSOS RODRIGO\Bootcamp Decola Tech\app-simples-cadastro-series-.net\Rodrigo.Series\obj\Debug\netcoreapp3.1\Rodrigo.Series.AssemblyInfoInputs.cache
+C:\Users\Pitiquinho\OneDrive\Área de Trabalho\CURSOS RODRIGO\Bootcamp Decola Tech\app-simples-cadastro-series-.net\Rodrigo.Series\obj\Debug\netcoreapp3.1\Rodrigo.Series.AssemblyInfo.cs
+C:\Users\Pitiquinho\OneDrive\Área de Trabalho\CURSOS RODRIGO\Bootcamp Decola Tech\app-simples-cadastro-series-.net\Rodrigo.Series\obj\Debug\netcoreapp3.1\Rodrigo.Series.csproj.CoreCompileInputs.cache
+C:\Users\Pitiquinho\OneDrive\Área de Trabalho\CURSOS RODRIGO\Bootcamp Decola Tech\app-simples-cadastro-series-.net\Rodrigo.Series\obj\Debug\netcoreapp3.1\Rodrigo.Series.dll
+C:\Users\Pitiquinho\OneDrive\Área de Trabalho\CURSOS RODRIGO\Bootcamp Decola Tech\app-simples-cadastro-series-.net\Rodrigo.Series\obj\Debug\netcoreapp3.1\Rodrigo.Series.pdb
+C:\Users\Pitiquinho\OneDrive\Área de Trabalho\CURSOS RODRIGO\Bootcamp Decola Tech\app-simples-cadastro-series-.net\Rodrigo.Series\obj\Debug\netcoreapp3.1\Rodrigo.Series.genruntimeconfig.cache
